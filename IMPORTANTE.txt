@@ -1,0 +1,8 @@
+1.- Instalar el archivo Fuentes antes de ejecutar.
+(OPCIONAL) Reiniciar el equipo.
+
+2.- Añadir la base de datos al SQL.
+(OPCIONAL)Copiar la  base de datos (Carpeta CAD-BD) en el Disco D.
+
+3.- Ejecutar la aplicación CAD.exe
+

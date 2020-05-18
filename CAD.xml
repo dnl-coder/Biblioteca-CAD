@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Angy\Desktop\Sistema de Biblioteca CAD\CAD_JAVA.jar</jar>
+  <outfile>C:\Users\Angy\Desktop\Sistema de Biblioteca CAD\CAD.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Angy\Desktop\Sistema de Biblioteca CAD\Icono.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk1.8.0_121\jre</path>
+    <minVersion>1.5.0</minVersion>
+    <maxVersion>1.7.0</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
